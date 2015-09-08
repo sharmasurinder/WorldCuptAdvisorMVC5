@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>check@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Guest-Account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Guest-Account---Trade-History" sketch:type="MSArtboardGroup" transform="translate(-869.000000, -965.000000)">
+            <g id="checks" sketch:type="MSLayerGroup" transform="translate(504.000000, 966.000000)">
+                <g id="check" transform="translate(366.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <path d="M25,12.5 C25,19.4035 19.4035,25 12.5,25 C5.5965,25 0,19.4035 0,12.5 C0,5.5965 5.5965,0 12.5,0 C19.4035,0 25,5.5965 25,12.5 L25,12.5 Z" id="Fill-361" fill="#FFFFFF"></path>
+                    <path d="M25,12.5 C25,19.4035 19.4035,25 12.5,25 C5.5965,25 0,19.4035 0,12.5 C0,5.5965 5.5965,0 12.5,0 C19.4035,0 25,5.5965 25,12.5 L25,12.5 Z" id="Stroke-362" stroke="#4198C5" stroke-width="2" stroke-linejoin="round"></path>
+                    <path d="M19,7.5 L11,16.5 L6,12.5" id="Path" stroke="#4198C5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

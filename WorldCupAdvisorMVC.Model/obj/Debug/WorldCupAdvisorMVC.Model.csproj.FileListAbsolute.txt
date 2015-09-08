@@ -1,0 +1,15 @@
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\WorldCupAdvisorMVC.Model.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\WorldCupAdvisorMVC.Model.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\WorldCupAdvisorMVC.Common.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\WorldCupAdvisorMVC.Common.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\obj\Debug\WorldCupAdvisorMVC.Model.csprojResolveAssemblyReference.cache
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\obj\Debug\WorldCupAdvisorMVC.Model.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\obj\Debug\WorldCupAdvisorMVC.Model.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\WorldCupAdvisorMVC.Model.dll.config
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\EntityFramework.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\System.Data.Entity.Repository.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\System.Data.SqlServerCe.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\obj\Debug\WorldCupAdvisorMVC.Model.Migrations.AddUserTable.resources
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Model\obj\Debug\WorldCupAdvisorMVC.Model.csproj.GenerateResource.Cache

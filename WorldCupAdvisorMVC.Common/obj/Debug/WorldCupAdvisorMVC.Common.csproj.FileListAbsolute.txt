@@ -1,0 +1,5 @@
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Common\bin\Debug\WorldCupAdvisorMVC.Common.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Common\bin\Debug\WorldCupAdvisorMVC.Common.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Common\obj\Debug\WorldCupAdvisorMVC.Common.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Common\obj\Debug\WorldCupAdvisorMVC.Common.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC.Common\obj\Debug\WorldCupAdvisorMVC.Common.csprojResolveAssemblyReference.cache

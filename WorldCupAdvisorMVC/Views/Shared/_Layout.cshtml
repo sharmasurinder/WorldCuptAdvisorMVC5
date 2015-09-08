@@ -1,0 +1,177 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    @*@Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")*@
+    <title>@ViewBag.Title - My ASP.NET Application</title>    
+
+    <link href="~/Content/css/app.css" rel="stylesheet">    
+
+
+    <style>
+        body {
+            padding: 0;
+        }
+    </style>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body role="document">
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top nav-nt-log">
+
+        <div class="nav-container" style="position:relative;">
+            <div id="nabar-ot">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#"><img src="~/Content/images/logo-full-color.svg" class="logo" alt="World Cup Advisors" /></a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav nav-scrol">
+                        <li><a href="#" data-scroll="what-we-do">What We Do</a></li>
+                        <li><a href="#" data-scroll="how-it-works">How it Works</a></li>
+                        <li><a href="#" data-scroll="advisors">Advisors</a></li>
+                        <li><a href="subscribe.html">Subscribe</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="join-team.html"> JOIN THE TEAM</a></li>
+                        <li><a href="contact.html"> CONTACT</a></li>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li>Welcome, @User.Identity.Name<a href="@Url.Action("LogOff","Account")" class="gery-btn"><img src="~/Content/images/padlock@1x.png" alt="Logout" /> Logout</a></li>
+                        }
+                        else
+                        {
+                            <li> <a href="@Url.Action("Login","Account")" class="gery-btn"><img src="~/Content/images/padlock@1x.png" alt="login" /> LOGIN</a></li>
+                        }
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div>
+        </div>
+    </nav>
+        <!-- slider  -->
+        @RenderBody()
+
+    <div class="clearfix"></div>
+
+    <section class="ftr-mn">
+        <div class="container">
+            <div class="row ftr-mn-tp-ot">
+                <div class="col-md-4"><span class="ftr-tp-txt"><img src="~/Content/images/location-pin.svg" alt="" class="loc-ico" /> 8700 W Bryn Mawr Ave. Chicago, IL 60631</span></div>
+                <div class="col-md-3"><span class="ftr-tp-txt"><img src="~/Content/images/ringing-phone.svg" alt="" class="phn-ico" /> (877) 456 7111 - 312 454 5000</span></div>
+                <div class="col-md-3"><img src="~/Content/images/mail-footer.svg" alt="" class="mail-ico" /> <a href="mailto:info@worldcupadvisor.com" class="ftr-tp-txt">info@worldcupadvisor.com</a></div>
+                <div class="col-md-2 soci-ico-ot">
+                    <a href="#"><object type="image/svg+xml" data="~/Content/images/twitter.svg">Your browser does not support SVG</object></a>
+                    <a href="#"><object type="image/svg+xml" data="~/Content/images/fb.svg">Your browser does not support SVG</object></a>
+                    <a href="#"><object type="image/svg+xml" data="~/Content/images/google plus.svg">Your browser does not support SVG</object></a>
+                </div>
+
+            </div>
+            <div class="row ftr-mn-btm-ot">
+                <div class="col-md-6">
+                    <ul>
+                        <li><a href="#">Tour</a></a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="#">World Cup Challange <object type="image/svg+xml" data="~/Content/images/link.svg">Your browser does not support SVG</object> </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-5 col-md-offset-1"><small>Copyright &copy; WorldCupAdvisor.com. All rights reserved</small></div>
+            </div>
+        </div>
+    </section>
+    <section class="ftr-btm">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6"> <p>Trading futures and forex involves significant risk of loss and is not suitable for everyone. Past performance is not necessarily indicative of future results. This web site is intended as a solicitation for leader-follower AutoTrade programs offered by WorldCupAdvisor.com (WCA). There is unlimited risk of loss in selling options. An investor must read, understand and sign a Letter of Direction for WCA programs before investing. There are no guarantees of profit no matter who is managing your money. Net-profit data under &quot;Leaders to Follow&quot; and &quot;Top Net Performers&quot; includes open trade equity if any as of market close on the date listed, and is calculated using current WCA subscription rates, standardized commission rates (including Exchange fees but not NFA fees) and funding requirements available through any authorized AutoTrade broker. For detail on commission calculations, open the Net-Profit Calculator. Trades displayed on WorldCupAdvisor.com are from proprietary accounts that are either owned by the advisor or are entities of which the advisor is a beneficial owner. Performance data shown for lead accounts is not necessarily indicative of subscriber rate of return and drawdown due to execution, slippage, subscriber funding level and other factors.</p></div>
+                <div class="col-md-6">
+                    <p>While great care is taken in the preparation of information presented on WCA, subscribers must rely on their account statements for subscriber-specific performance of any WCA program. WCA accounts do not necessarily represent all the accounts controlled by the advisor. The advisor may have other accounts that may be subject to commission rates different than rates required to follow his or her WCA account with AutoTrade service and may produce results different than his or her WCA account(s). The advisor may have previously displayed other accounts on WCA. Accounts trading in the World Cup Trading Championships (WCC) do not necessarily represent all the WCC accounts controlled by the competitor, may be subject to commission rates different than rates required to follow a WCC account with AutoTrade service, and may produce results different than the results achieved in other WCC accounts of the competitor. To view the trade-by-trade history of all WCA programs in our &quot;Performance&quot; section, fill out the &quot;Performance Reports&quot; form on the WorldCupAdvisor.com home page.</p>
+                    <img src="~/Content/images/logo-full-color.svg" alt="world cup advisors" />
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+
+    <script src="~/Scripts/js/app.js"></script>
+    @*<script src="~/Scripts/js/skrollr.min.js"></script>*@
+
+
+    <script type="text/javascript">
+        $(function () {
+            var cubuk_seviye = $(document).scrollTop();
+            var header_yuksekligi = $('.navbar').outerHeight();
+
+            //$(window).scroll(function () {
+            //    var kaydirma_cubugu = $(document).scrollTop();
+
+            //    if (kaydirma_cubugu > header_yuksekligi) { $('.navbar').addClass('gizle'); }
+            //    else { $('.navbar').removeClass('gizle'); }
+
+            //    if (kaydirma_cubugu > cubuk_seviye) { $('.navbar').removeClass('sabit'); }
+            //    else { $('.navbar').addClass('sabit'); $('.logo').attr('src', '/Content/images/logo-full-color.svg'); }
+
+            //    if ($(document).scrollTop() == 0) {
+            //        $('.navbar').removeClass('sabit');
+            //        $('.logo').attr('src', '/Content/images/logo-full-color.svg');
+            //    }
+
+            //    cubuk_seviye = $(document).scrollTop();
+            //});
+        });
+
+
+        $('.nav-scrol a').on('click', function () {
+
+            var scrollAnchor = $(this).attr('data-scroll'),
+                scrollPoint = $('section[data-anchor="' + scrollAnchor + '"]').offset().top - 28;
+
+            $('body,html').animate({
+                scrollTop: scrollPoint
+            }, 500);
+
+            return false;
+
+        });
+
+
+        //$(window).scroll(function () {
+        //    var windscroll = $(window).scrollTop();
+        //    if (windscroll >= 100) {
+
+        //        $('section').each(function (i) {
+        //            if ($(this).position().top <= windscroll - 630) {
+        //                $('nav li.active').removeClass('active');
+        //                $('nav li').eq(i).addClass('active');
+        //            }
+        //        });
+
+        //    } else if (windscroll >= 200 || windscroll == 0) {
+        //        $('nav li.active').removeClass('active');
+        //    } else {
+
+        //        $('nav li.active').removeClass('active');
+        //        $('nav li:first').addClass('active');
+        //    }
+
+        //}).scroll();
+    </script>
+ 
+</body>
+</html>

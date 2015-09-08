@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="59px" height="54px" viewBox="0 0 59 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>risk</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Anonymous" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="About" sketch:type="MSArtboardGroup" transform="translate(-1009.000000, -1183.000000)">
+            <g id="3-column" sketch:type="MSLayerGroup" transform="translate(0.000000, 518.000000)">
+                <g id="Risk" transform="translate(976.000000, 623.000000)" sketch:type="MSShapeGroup">
+                    <g id="risk" transform="translate(34.000000, 43.000000)">
+                        <path d="M56.8420351,50.4721731 C57.2378596,51.1489423 56.7504561,52 55.9679649,52 L1.42557895,52 C0.645122807,52 0.157719298,51.1530192 0.54845614,50.47625 L27.6487018,0.508461538 C28.0374035,-0.164230769 29.0071228,-0.167288462 29.3998947,0.504384615 L56.8420351,50.4721731 L56.8420351,50.4721731 Z" id="Fill-559" fill="#FFFFFF"></path>
+                        <path d="M56.8420351,50.4721731 C57.2378596,51.1489423 56.7504561,52 55.9679649,52 L1.42557895,52 C0.645122807,52 0.157719298,51.1530192 0.54845614,50.47625 L27.6487018,0.508461538 C28.0374035,-0.164230769 29.0071228,-0.167288462 29.3998947,0.504384615 L56.8420351,50.4721731 L56.8420351,50.4721731 Z" id="Stroke-560" stroke="#4198C5" stroke-width="2"></path>
+                        <path d="M6.72596491,47.9230769 L28.5421053,7.10186538 L50.634,47.9230769 L6.72596491,47.9230769 L6.72596491,47.9230769 Z" id="Fill-561" fill="#DAEBF4"></path>
+                        <path d="M6.72596491,47.9230769 L28.5421053,7.10186538 L50.634,47.9230769 L6.72596491,47.9230769 L6.72596491,47.9230769 Z" id="Stroke-562" stroke="#4198C5" stroke-width="2"></path>
+                        <path d="M28.4912281,18.3653846 L28.4912281,35.6923077 M28.4912281,39.7692308 L28.4912281,41.8076923" id="Stroke-805" stroke="#4198C5" stroke-width="2" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

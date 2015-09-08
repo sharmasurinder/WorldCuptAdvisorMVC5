@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>location pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Anonymous" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Landing" sketch:type="MSArtboardGroup" transform="translate(-138.000000, -4247.000000)" fill="#58637A">
+            <g id="FOOTER" sketch:type="MSLayerGroup" transform="translate(1.000000, 4198.000000)">
+                <g id="Contact" transform="translate(137.000000, 49.000000)" sketch:type="MSShapeGroup">
+                    <g id="address">
+                        <g id="location-pin" transform="translate(0.750000, 0.000000)">
+                            <path d="M17.1495484,12.3333333 L14.7240484,12.3333333 L15.7560968,10.8666667 C17.705371,8.30966667 17.4232258,4.10633333 15.1525161,1.87233333 C13.9260484,0.665 12.2951613,0 10.5599516,0 C8.82508065,0 7.19385484,0.665 5.96704839,1.87233333 C3.69667742,4.10633333 3.41453226,8.30966667 5.35601613,10.8563333 L6.39517742,12.3333333 L3.85045161,12.3333333 L0.140903226,20 L20.8590968,20 L17.1495484,12.3333333 L17.1495484,12.3333333 Z M10.6199032,4 C11.9269839,4 12.990871,5.047 12.990871,6.33333333 C12.990871,7.61966667 11.9269839,8.66666667 10.6199032,8.66666667 C9.31248387,8.66666667 8.24893548,7.61966667 8.24893548,6.33333333 C8.24893548,5.047 9.31248387,4 10.6199032,4 L10.6199032,4 Z M4.27858065,13 L6.86429032,13 L10.5599516,18.2523333 L14.2552742,13 L16.7214194,13 L19.7860645,19.3333333 L1.21393548,19.3333333 L4.27858065,13 L4.27858065,13 Z" id="Fill-1057"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

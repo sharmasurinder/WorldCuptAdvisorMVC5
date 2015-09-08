@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="20px" viewBox="0 0 10 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook button</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Anonymous" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Login" sketch:type="MSArtboardGroup" transform="translate(-943.000000, -330.000000)" fill="#F6F7FB">
+            <g id="Form" sketch:type="MSLayerGroup" transform="translate(732.000000, 160.000000)">
+                <g id="login-Fb" transform="translate(62.000000, 146.000000)" sketch:type="MSShapeGroup">
+                    <g id="Imported-Layers-Copy-+-Login-with" transform="translate(41.000000, 21.000000)">
+                        <path d="M110.163529,13.999875 L110.163529,22.5 L114.260588,22.5 L114.260588,14.04025 L117.057059,14.04025 L117.733529,10.5139688 L114.289412,10.5139688 L114.289412,7.927 C114.289412,7.56896875 114.478824,7.09159375 115.051765,7.09159375 L117.042941,7.09159375 L117.042941,3.5 L113.325294,3.5 C112.042941,3.5 110.149412,5.09421875 110.149412,6.789375 L110.149412,10.413625 L108,10.413625 L108,13.9850313 L110.163529,13.999875" id="facebook-button"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

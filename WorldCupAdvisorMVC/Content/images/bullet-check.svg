@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="43px" viewBox="0 0 44 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>bullet check</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Anonymous" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Login" sketch:type="MSArtboardGroup" transform="translate(-141.000000, -468.000000)">
+            <g id="Free-Trial" sketch:type="MSLayerGroup" transform="translate(0.000000, 100.000000)">
+                <g id="Bullets" transform="translate(137.000000, 254.000000)" sketch:type="MSShapeGroup">
+                    <g id="bullet-check" transform="translate(5.000000, 115.000000)">
+                        <path d="M41.1764706,20.5 C41.1764706,31.82174 31.9587059,41 20.5882353,41 C9.21776471,41 0,31.82174 0,20.5 C0,9.17826 9.21776471,0 20.5882353,0 C31.9587059,0 41.1764706,9.17826 41.1764706,20.5 L41.1764706,20.5 Z" id="Fill-361" fill="#FFFFFF"></path>
+                        <path d="M41.1764706,20.5 C41.1764706,31.82174 31.9587059,41 20.5882353,41 C9.21776471,41 0,31.82174 0,20.5 C0,9.17826 9.21776471,0 20.5882353,0 C31.9587059,0 41.1764706,9.17826 41.1764706,20.5 L41.1764706,20.5 Z" id="Stroke-362" stroke="#4198C5" stroke-width="2" stroke-linejoin="round"></path>
+                        <path d="M31.2941176,12.3 L18.1176471,27.06 L9.88235294,20.5" id="Path" stroke="#4198C5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

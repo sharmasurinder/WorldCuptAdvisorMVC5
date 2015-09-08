@@ -1,0 +1,61 @@
+﻿@model WorldCupAdvisorMVC.Models.ExternalLoginConfirmationViewModel
+@{
+    ViewBag.Title = "ExternalLoginConfirmation";
+}
+
+@using (Html.BeginForm("ExternalLoginConfirmation", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <section class="signup-bnr">
+        <div class="container">
+            <h1>Confirmation</h1>
+        </div>
+    </section>
+
+    <section class="signup-ot">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                    <div class="rel-act-ot cntc-rel-act-ot">
+                        <h4 class="rel-act"><h4>Associate your @ViewBag.LoginProvider account.</h4></h4>
+                        <p class="fil-ot-frm-txt">  You've successfully authenticated with <strong>@ViewBag.LoginProvider</strong>.Please click the Confirm button to finish logging in.</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-md-offset-1">
+                    <div id="signup-form" class="cntct-frm">
+                        <h1>Confirmation</h1>
+                        <div class="input-group input-group-lg">
+                            <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/user-field.svg" alt="" /></span>
+                            @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", @placeholder = "First Name" })
+                        </div>
+                        <div class="input-group input-group-lg">
+                            <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/user-field.svg" alt="" /></span>
+                            @Html.TextBoxFor(m => m.LastName, new { @class = "form-control", @placeholder = "Last Name" })
+                        </div>
+                        <div class="input-group input-group-lg">
+                            <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/user-field.svg" alt="" /></span>
+                            @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", @placeholder = "Username" })
+                        </div>
+                        <div class="input-group input-group-lg">
+                            <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/mail-field.svg" alt="" /></span>
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control", disabled = "disabled", @placeholder = "Email" })
+                        </div>
+                        <div class="input-group input-group-lg">
+                            <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/password-field.svg" alt="" /></span>
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Password" })
+                        </div>
+                        <div class="input-group input-group-lg">
+                            <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/phone-field.svg" alt="" /></span>
+                            @Html.TextBoxFor(m => m.ContactNumber, new { @class = "form-control", @placeholder = "Contact Number" })
+                        </div>
+                        <button class="sgnup-btn" type="submit">Confirm</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+}
+

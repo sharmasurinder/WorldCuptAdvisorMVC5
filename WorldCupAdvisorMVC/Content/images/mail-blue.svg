@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>mail-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Anonymous" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Landing---Header" sketch:type="MSArtboardGroup" transform="translate(-1138.000000, -47.000000)" fill="#4198C5">
+            <g id="HEADER" sketch:type="MSLayerGroup">
+                <g id="mail-blue" transform="translate(1138.000000, 46.000000)" sketch:type="MSShapeGroup">
+                    <path d="M16,12.1290667 L16,1.38506667 L10.5285333,6.87626667 L16,12.1290667" id="Fill-211"></path>
+                    <path d="M0,1.38426667 L0,12.1290667 L5.47173333,6.876 L0,1.38426667" id="Fill-212"></path>
+                    <path d="M0.370133333,1 L5.9704,6.62133333 C6.00293333,6.63493333 6.096,6.732 6.10826667,6.75946667 L7.69253333,8.34986667 C7.86186667,8.5072 8.1384,8.50693333 8.31466667,8.34293333 L9.89093333,6.7608 C9.9032,6.7328 9.9976,6.63466667 10.0301333,6.62106667 L15.6306667,1 L0.370133333,1" id="Fill-213"></path>
+                    <path d="M10.152,7.2544 L8.68533333,8.7264 C8.49066667,8.90746667 8.24346667,8.99786667 7.99733333,8.99786667 C7.7536,8.99786667 7.5112,8.90933333 7.32186667,8.73306667 L5.84826667,7.25413333 L0.4184,12.4666667 L15.5816,12.4666667 L10.152,7.2544" id="Fill-214"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

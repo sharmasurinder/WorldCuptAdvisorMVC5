@@ -1,0 +1,115 @@
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.dll.config
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.pdb
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Antlr3.Runtime.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.SqlServer.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Google.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Newtonsoft.Json.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Owin.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Helpers.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Mvc.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Optimization.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Razor.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Deployment.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Razor.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WebGrease.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Helpers.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Mvc.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Optimization.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Razor.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Deployment.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Razor.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Antlr3.Runtime.pdb
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Newtonsoft.Json.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.SqlServer.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Google.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\obj\Debug\WorldCupAdvisorMVC.csprojResolveAssemblyReference.cache
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\obj\Debug\WorldCupAdvisorMVC.dll
+c:\users\develop4\documents\visual studio 2013\Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\obj\Debug\WorldCupAdvisorMVC.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.dll.config
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Antlr3.Runtime.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.SqlServer.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Google.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Newtonsoft.Json.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Owin.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Helpers.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Mvc.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Optimization.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Razor.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Deployment.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Razor.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WebGrease.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Helpers.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Mvc.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Optimization.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.Razor.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Deployment.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\System.Web.WebPages.Razor.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Antlr3.Runtime.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Newtonsoft.Json.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\EntityFramework.SqlServer.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Google.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\obj\Debug\WorldCupAdvisorMVC.csprojResolveAssemblyReference.cache
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\obj\Debug\WorldCupAdvisorMVC.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\obj\Debug\WorldCupAdvisorMVC.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\Owin.Security.Providers.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.Common.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.Common.pdb
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.Model.dll
+D:\Geek-Tech Projects\WorldCupAdvisorMVC\WorldCupAdvisorMVC\WorldCupAdvisorMVC\bin\WorldCupAdvisorMVC.Model.pdb

@@ -1,0 +1,84 @@
+﻿@model WorldCupAdvisorMVC.Models.LoginModel
+@using Microsoft.Owin.Security
+@{
+    ViewBag.Title = "Login";
+}
+
+<section class="signup-bnr">
+    <div class="container">
+        <h1>Login</h1>
+    </div>
+</section>
+
+<section class="signup-ot">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <div class="rel-act-ot">
+                    <h4 class="rel-act">Login to see real accounts traded with real money.</h4>
+                    <ul class="signup-lst">
+                        <li> <img src="~/Content/images/bullet-check.svg" alt="" /> <span>This is NOT Hypothetical trading, these are LIVE TRADES from proprietary accounts owned by our advisors.</span></li>
+                        <li><img src="~/Content/images/bullet-check.svg" alt="" /> <span>Follow any program automatically in your own account awith AuoTrade(TM) service.</span></li>
+                        <li><img src="~/Content/images/bullet-check.svg" alt="" /> <span>If your price is not equal to or better than the advisor's fill price from your authorized AutoTrade broker. *</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-md-6 col-md-offset-1 sgnup-ot-tp">
+                <div id="signup-form">
+                    <h1>Account Login</h1>
+                    <div class="sgnup-ot">
+                        @{
+                            var externalLoginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+                            if (externalLoginProviders.Count() != 0)
+                            {
+                                using (Html.BeginForm("ExternalLogin", "Account"))
+                                {
+                                    @Html.AntiForgeryToken()
+                                    foreach (AuthenticationDescription p in externalLoginProviders)
+                                    {
+                                        if (p.AuthenticationType == "Google")
+                                        {
+                                            <button type="submit" class="gog-btn" id="@p.AuthenticationType" value="@p.AuthenticationType" name="provider"> Login</button>
+                                        }
+                                        if (p.AuthenticationType == "Facebook")
+                                        {
+                                            <button type="submit" class="fb-btn" id="@p.AuthenticationType" value="@p.AuthenticationType" name="provider"> Login</button>
+                                        }
+                                        if (p.AuthenticationType == "LinkedIn")
+                                        {
+                                            <button type="submit" class="in-btn" id="@p.AuthenticationType" value="@p.AuthenticationType" name="provider"> Login</button>
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    </div>
+
+                    <div class="or-ot">
+                        <div class="or-lt-ln"></div>
+                        <div class="or-txt">or</div>
+                        <div class="or-lt-ln"></div>
+                        <div class="clearfix"></div>
+                    </div>
+                 
+                    @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+                    {
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/user-field.svg" alt="" /></span>
+                        @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", @placeholder = "Username" })
+                    </div>
+                    <div class="input-group input-group-lg">
+                        <span class="input-group-addon" id="sizing-addon1"><img src="~/Content/images/password-field.svg" alt="" /></span>
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Password" })
+                    </div>
+                    <a href="#" class="forg-pas">FORGOT YOUR PASSORD?</a>
+                    <button class="sgnup-btn" type="submit">Login</button>
+                    }
+                </div>
+                <div class="clearfix"></div>
+                @*<p class="wnt-subsc-txt">Create a <a href="@Url.Action("Signup","Account")">Guest Login</a> or get started with your <a href="#">Live Account</a> now</p>*@
+                <p class="wnt-subsc-txt"> <a href="@Url.Action("Signup","Account")">Create an Account</a> or get started with your <a href="@Url.Action("Login","Account")">Live Account</a> now</p>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+    <title>back@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Guest-Account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Guest-Account---About" sketch:type="MSArtboardGroup" transform="translate(-1156.000000, -210.000000)" fill="#41BA9F">
+            <g id="Advisor-Info" sketch:type="MSLayerGroup" transform="translate(0.000000, 100.000000)">
+                <g id="Advisor" transform="translate(0.000000, 31.000000)" sketch:type="MSShapeGroup">
+                    <g id="Back" transform="translate(1156.000000, 79.000000)">
+                        <g id="back">
+                            <path d="M9,0 C4.03733333,0 0,4.03733333 0,9 C0,13.9626667 4.03733333,18 9,18 C13.9626667,18 18,13.9626667 18,9 C18,4.03733333 13.9626667,0 9,0 L9,0 Z M10.8043333,12.7643333 C10.9346667,12.8946667 10.9346667,13.1053333 10.8043333,13.2356667 C10.7393333,13.3006667 10.654,13.3333333 10.5686667,13.3333333 C10.4833333,13.3333333 10.398,13.3006667 10.333,13.2356667 L6.50033333,9.403 C6.278,9.18066667 6.278,8.81933333 6.50033333,8.597 L10.333,4.76433333 C10.4633333,4.634 10.6743333,4.634 10.8043333,4.76433333 C10.9346667,4.89466667 10.9346667,5.10533333 10.8043333,5.23566667 L7.04,9 L10.8043333,12.7643333 L10.8043333,12.7643333 Z" id="Left"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
